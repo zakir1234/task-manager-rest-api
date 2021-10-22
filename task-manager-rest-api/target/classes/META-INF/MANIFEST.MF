@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Zakir
+Build-Jdk: 11.0.10
+Implementation-Title: task-manager-rest-api
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.spring
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/task-manager-rest-api
+Created-By: Maven Integration for Eclipse
+
